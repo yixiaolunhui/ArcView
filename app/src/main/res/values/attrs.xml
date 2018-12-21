@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ArcView">
+        <attr name="arcHeight" format="dimension" />
+        <attr name="arcBgColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="ArcShaderView">
+        <attr name="arcShaderHeight" format="dimension" />
+        <attr name="arcShaderStartBgColor" format="color" />
+        <attr name="arcShaderEndBgColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="ArcImageView">
+        <attr name="arcImgHeight" format="dimension" />
+    </declare-styleable>
+</resources>
